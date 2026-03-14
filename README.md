@@ -7,7 +7,7 @@
 <p>
   <a href="https://www.linkedin.com/in/mnoumanhanif/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/mnoumanhanif"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:mnoumanhanif@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mnoumanhanif66@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=mnoumanhanif&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
