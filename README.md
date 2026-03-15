@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Nouman%20Hanif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20NLP%20%7C%20Machine%20Learning%20Engineer&descAlignY=55&descSize=18" width="100%" alt="Profile header banner for Muhammad Nouman Hanif - AI, NLP, and Machine Learning Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Nouman%20Hanif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20NLP%20%7C%20Machine%20Learning%20Engineer&descAlignY=55&descSize=18" width="100%" alt="Profile header banner for Muhammad Nouman Hanif - Data Scientist, AI/ML, NLP, and Cloud/DevOps Engineer"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+with+LLMs+%F0%9F%A4%96;NLP+Researcher+%7C+AI+Engineer+%7C+Data+Scientist;Fine-tuning+LLMs+%7C+RAG+%7C+Agentic+AI;Open+to+Research+Collaborations+%F0%9F%94%AC)](https://git.io/typing-svg)
 
