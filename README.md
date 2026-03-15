@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Nouman%20Hanif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%2FNLP%2C%20Data%20Scientist%20and%20Cloud%2FDevOps%20Engineer&descAlignY=55&descSize=18" width="100%" alt="Profile header banner for Muhammad Nouman Hanif - AI/ML/NLP, Data Scientist and Cloud/DevOps Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Nouman%20Hanif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%2FNLP%2C%20Data%20Scientist%2C%20and%20Cloud%2FDevOps%20Engineer&descAlignY=55&descSize=18" width="100%" alt="Profile header banner for Muhammad Nouman Hanif - AI/ML/NLP, Data Scientist, and Cloud/DevOps Engineer"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+with+LLMs+%F0%9F%A4%96;NLP+Researcher+%7C+AI+Engineer+%7C+Data+Scientist;Fine-tuning+LLMs+%7C+RAG+%7C+Agentic+AI;Open+to+Research+Collaborations+%F0%9F%94%AC)](https://git.io/typing-svg)
 
@@ -168,7 +168,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="mailto:mnoumanhanif@outlook.com">
+<a href="mailto:mnoumanhanif66@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
 </a>
 
